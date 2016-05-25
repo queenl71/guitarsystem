@@ -51,7 +51,7 @@ public class kkk extends HttpServlet {
         /*
          * database为数据库链接的字符串,做为数据库链接的一个参数
          */
-        String database ="jdbc:odbc:/Users/user/Documents/workspace/guitars/WebContent/database/GuitarData.db";
+        String database ="jdbc:odbc:/Users/user/Documents/workspace/guitars/WebContent/database／GuitarData.db";
         /*
          * 定义一个字符串变量,用来存储数据库查询的命令语句
          */
